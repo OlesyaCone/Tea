@@ -1,0 +1,421 @@
+[{
+  "_id": {
+    "$oid": "66dc922ebb3174aae936b981"
+  },
+  "title": "Цейлон Рухуна",
+  "minDescription": "Чай из южной части Шри-Ланки с цветочным ароматом и насыщенным вкусом с нотами ириса, дерева и мёда",
+  "teaType": "black",
+  "teaImage": "https://coffee-static.storage.yandexcloud.net/files/shares/data/product/1724311392.1384-ceilon-rikhuna1-1024.png",
+  "description": "Округ Рухуна расположен в южной части Шри-Ланки. Местная почва обладает характерными особенностями, благодаря которым чайные листья приобретают чёрный цвет. Жаркий климат и особые грунтовые условия плантаций придают чаю терпкость и своеобразный характерный вкус, который полностью раскрывается при заваривании. Этот чай обладает цветочным ароматом и насыщенным вкусом с нотами ириса, дерева и мёда",
+  "price": 359,
+  "deliveryTime": 23,
+  "cart": false,
+  "unedited": true
+},
+{
+  "_id": {
+    "$oid": "66dc922ebb3174aae936b982"
+  },
+  "title": "Молочный улун",
+  "minDescription": "Китайский улун с карамельным ароматом и сливочными оттенками во вкусе",
+  "teaType": "oolong",
+  "teaImage": "https://coffee-static.storage.yandexcloud.net/files/shares/data/product/1722862106.5803-oolong-milk-1024.png",
+  "description": "Молочный улун — популярный во всём мире чай. Его любят за карамельный аромат и сливочные оттенки во вкусе. Для его производства используют китайский улун, который обрабатывают молочным экстрактом.",
+  "price": 379,
+  "deliveryTime": 63,
+  "cart": false,
+  " unedited": true,
+  "unedited": false
+},
+{
+  "_id": {
+    "$oid": "66dc922ebb3174aae936b983"
+  },
+  "title": "Апельсиновый со специями",
+  "minDescription": "Чёрный чай с кусочками яблока, цедрой апельсина, корицей, кардамоном и красным перцем",
+  "teaType": "flavoredBlack",
+  "teaImage": "https://coffee-static.storage.yandexcloud.net/files/shares/data/product/1722599477.4877-black-aroma-orange-cookies1-1024.png",
+  "description": "Купаж из чёрного цейлонского и индийского чаёв, в который добавили кусочки яблока и цедру апельсина, а также пряности и специи — корицу, кардамон и красный перец. С натуральным ароматизатором апельсина.",
+  "price": 419,
+  "deliveryTime": 86,
+  "cart": false,
+  "unedited": true
+},
+{
+  "_id": {
+    "$oid": "66dc922ebb3174aae936b984"
+  },
+  "title": "Английский завтрак",
+  "minDescription": "Купаж из чёрного цейлонского и индийского чая с терпким вкусом и длительным цветочным послевкусием",
+  "teaType": "black",
+  "teaImage": "https://coffee-static.storage.yandexcloud.net/files/shares/data/product/1722599376.9821-english-breakfast1-1024.png",
+  "description": "Округ Рухуна расположен в южной части Шри-Ланки. Местная почва обладает характерными особенностями, благодаря которым чайные листья приобретают чёрный цвет. Жаркий климат и особые грунтовые условия плантаций придают чаю терпкость и своеобразный характерный вкус, который полностью раскрывается при заваривании. Этот чай обладает цветочным ароматом и насыщенным вкусом с нотами ириса, дерева и мёда",
+  "price": 359,
+  "deliveryTime": 34,
+  "cart": true,
+  "unedited": true
+},
+{
+  "_id": {
+    "$oid": "66dc922ebb3174aae936b985"
+  },
+  "title": "Дворцовый Пуэр",
+  "minDescription": "Китайский пуэр с шоколадными и ореховыми нотами, который оставляет долгое послевкусие",
+  "teaType": "puer",
+  "teaImage": "https://coffee-static.storage.yandexcloud.net/files/shares/data/product/1724347373.052-palace-puer1-1024.png",
+  "description": "Дворцовый пуэр двадцатипятилетней выдержки изготавливают из листов и почек старейших чайных деревьев, которые растут на плантациях провинции Юннань. Вкус у чая очень мягкий, с шоколадными и ореховыми нотами и сладким долгим послевкусием.",
+  "price": 459,
+  "deliveryTime": 54,
+  "cart": false,
+  "unedited": true
+},
+{
+  "_id": {
+    "$oid": "66dc922ebb3174aae936b986"
+  },
+  "title": "Моли Хуа Ча (Жасминовый)",
+  "minDescription": "Китайский зелёный чай с жасмином",
+  "teaType": "green",
+  "teaImage": "https://coffee-static.storage.yandexcloud.net/files/shares/data/product/1722599042.3099-moli-hua-cha1-1024.png",
+  "description": "Этот китайский зелёный чай ароматизирован естественным способом — с помощью цветов жасмина.",
+  "price": 299,
+  "deliveryTime": 92,
+  "cart": false,
+  "unedited": true
+},
+{
+  "_id": {
+    "$oid": "66dc922ebb3174aae936b987"
+  },
+  "title": "Глинтвейн",
+  "minDescription": "Фруктовый сбор на основе гибискуса с добавлением изюма, цедры апельсина, перца и пряностей",
+  "teaType": "fruit",
+  "teaImage": "https://coffee-static.storage.yandexcloud.net/files/shares/data/product/1722599338.3164-mulled-wine1-1024.png",
+  "description": "Фруктовые и ягодные сборы также называют тизанами. Тизаны — это напитки, приготовленные из трав, фруктов, коры, цветов или специй, но без добавления чайного листа. В составе этого тизана — гибискус, изюм, корень имбиря, корица, бадьян, кардамон, гвоздика, душистый перец, цедра апельсина, а также натуральный ароматизатор.",
+  "price": 529,
+  "deliveryTime": 48,
+  "cart": true,
+  "unedited": true
+},
+{
+  "_id": {
+    "$oid": "66dc922ebb3174aae936b988"
+  },
+  "title": "Дыня/Карамель",
+  "minDescription": "Китайский зелёный чай с кусочками дыни и календулой",
+  "teaType": "flavoredGreen",
+  "teaImage": "https://coffee-static.storage.yandexcloud.net/files/shares/data/product/1724409423.5967-green-aroma-melon-caramel1-1024.png",
+  "description": "Китайский зелёный чай с кусочками дыни и календулой, а также с добавлением натурального ароматизатора дыни и карамели.",
+  "price": 329,
+  "deliveryTime": 38,
+  "cart": false,
+  "unedited": true
+},
+{
+  "_id": {
+    "$oid": "66dc922ebb3174aae936b989"
+  },
+  "title": "Гречишный",
+  "minDescription": "Тизан с лёгким сладковатым ароматом, с оттенками ореха и овсяного печенья",
+  "teaType": "tisane",
+  "teaImage": "https://coffee-static.storage.yandexcloud.net/files/shares/data/product/1720160715.5346-grechishnyy1-1024.png",
+  "description": "Гречишный чай — это напиток на основе семян татарской гречихи. Он не является чаем в традиционном понимании. Его называют тизаном или нечайным чаем. Тизаны — это напитки, приготовленные из трав, фруктов, коры, цветов или специй, но без добавления чайного листа. Татарская гречиха — травянистое однолетнее растение. Оно косвенно относится к гречихе обыкновенной, из которой делают крупу: они принадлежат к одному роду. Растение встречается в Азии, Европе и Северной Америке, но его родиной считают Гималаи, а основным производственным регионом — горный Китай. Также гречишный чай называют Ку Цяо.",
+  "price": 329,
+  "deliveryTime": 26,
+  "cart": false,
+  "unedited": true
+},
+{
+  "_id": {
+    "$oid": "66dc922ebb3174aae936b98a"
+  },
+  "title": "Ганпаудер",
+  "minDescription": "Классический насыщенный зелёный чай из Китая, скрученный в шарики",
+  "teaType": "green",
+  "teaImage": "https://coffee-static.storage.yandexcloud.net/files/shares/data/product/1722599103.8952-gunpauder1-1024.png",
+  "description": "Ганпаудер — знаменитый китайский чай, который в Китае называют Люй Чжу, то есть «зелёная жемчужина». Чайный лист скручивают в маленькие шарики, которые становятся похожими на порох. Из-за внешнего вида этот чай также называют gunpowder, что с английского переводится как «порох». Чай обладает насыщенным вкусом, поэтому важно его не перезаварить, чтобы напиток не приобрёл излишнюю горечь.",
+  "price": 289,
+  "deliveryTime": 30,
+  "cart": false,
+  "unedited": true
+},
+{
+  "_id": {
+    "$oid": "66dc922ebb3174aae936b98b"
+  },
+  "title": "Дерзкий фрукт",
+  "minDescription": "Тизан на основе гибискуса с добавлением шиповника и кусочков ананаса",
+  "teaType": "tisane",
+  "teaImage": "https://coffee-static.storage.yandexcloud.net/files/shares/data/product/1722599644.892-cocky-fruit1-full.png",
+  "description": "Тизаны — это напитки, приготовленные из трав, фруктов, коры, цветов или специй, но без добавления чайного листа. Этот тизан с натуральным ароматизатором — на основе гибискуса с добавлением шиповника и кусочков ананаса.",
+  "price": 529,
+  "deliveryTime": 56,
+  "cart": false,
+  "unedited": true
+},
+{
+  "_id": {
+    "$oid": "66dc922ebb3174aae936b98c"
+  },
+  "title": "Индия Ассам Дижу",
+  "minDescription": "Крупнолистовой индийский чай с цветочным ароматом и оттенками специй",
+  "teaType": "black",
+  "teaImage": "https://coffee-static.storage.yandexcloud.net/files/shares/data/product/1720157681.5499-india-assam-digu1-1024.png",
+  "description": "Классический индийский черный чай из штата Ассам. Произведен на плантации Дижу, знаменитой качеством своего чая. Вкус с цветочными нотами, переходящий в сладкое послевкусие. Цветочный аромат с оттенками специй.",
+  "price": 399,
+  "deliveryTime": 10,
+  "cart": false,
+  "unedited": true
+},
+{
+  "_id": {
+    "$oid": "66dc922ebb3174aae936b98d"
+  },
+  "title": "Цейлон Нувара Элияa",
+  "minDescription": "Высокогорный цейлонский чай с медово-цветочным ароматом и терпким сладким вкусом",
+  "teaType": "black",
+  "teaImage": "https://coffee-static.storage.yandexcloud.net/files/shares/data/product/1722599423.092-ceilon-nuvara-elia1-1024.png",
+  "description": "Этот чай вырастили на самых высокогорных плантациях Шри-Ланки. Он классифицируется как Orange Pekoe – крупнолистовой чай из молодых раскрывшихся листочков, скрученных по всей длине. После сбора чайный лист сушат и сортируют, обращая особое внимание на однородность сухого листа. Сухой лист крупный, тёмный, скрученный, без типсов, но очень ароматный. Аромат сухого листа — лёгкий и яркий, содержит медово-цветочные ноты. Настой — насыщенный, прозрачный, рубинового оттенка. Аромат настоя — деликатный, цветочный, с оттенками жёлтых фруктов. Вкус — гармоничный, с лёгкой горчинкой, переходящей в длительное терпкое послевкусие.",
+  "price": 939,
+  "deliveryTime": 47,
+  "cart": false,
+  "unedited": true
+},
+{
+  "_id": {
+    "$oid": "66dc922ebb3174aae936b98e"
+  },
+  "title": "Юннань Империал",
+  "minDescription": "Чай с высокогорных плантаций китайской провинции Юннань со сладким, фруктовым ароматом и нотами сухофруктов, пряностей во вкусе",
+  "teaType": "black",
+  "teaImage": "https://coffee-static.storage.yandexcloud.net/files/shares/data/product/1720157711.4994-unnan-imperial-1-1024.png",
+  "description": "Чай выращивается на высокогорных плантациях в китайской провинции Юньнань. При производстве этого сорта чая используются только крупные верхние почки. В состав чая входит множество золотых типсов, благодаря которым чай приобретает сладкий фруктовый аромат с нотами чернослива.",
+  "price": 289,
+  "deliveryTime": 57,
+  "cart": false,
+  "unedited": true
+},
+{
+  "_id": {
+    "$oid": "66dc922ebb3174aae936b98f"
+  },
+  "title": "Сенча",
+  "minDescription": "Китайский зелёный чай с древесным ароматом и терпким, слегка горьковатым вкусом с пряными оттенками",
+  "teaType": "green",
+  "teaImage": "https://coffee-static.storage.yandexcloud.net/files/shares/data/product/1724347527.6483-green-sencha1-1024.png",
+  "description": "Традиционно сенчу производят в Японии, но этот чай вырастили на плантациях Китая в провинции Юннань. Здесь его производят по японским традициям с обработкой паром. Напиток получается с древесным ароматом и терпким, слегка горьковатым вкусом с пряными оттенками.",
+  "price": 279,
+  "deliveryTime": 10,
+  "cart": false,
+  "unedited": true
+},
+{
+  "_id": {
+    "$oid": "66dc922ebb3174aae936b990"
+  },
+  "title": "Тегуаньинь",
+  "minDescription": "Популярный китайский улун со свежим цветочным ароматом и насыщенным глубоким вкусом с нотами орхидеи и ириса",
+  "teaType": "oolong",
+  "teaImage": "https://coffee-static.storage.yandexcloud.net/files/shares/data/product/1722599291.483-oolong-teguanin1-1024.png",
+  "description": "Тегуаньинь — один из самых известных китайских чаёв. Это полуферментированный улун, который занимает промежуточное место между зелеными и красными чаями. Иногда его также называют бирюзовым чаем.",
+  "price": 399,
+  "deliveryTime": 45,
+  "cart": true,
+  "unedited": true
+},
+{
+  "_id": {
+    "$oid": "66dc922ebb3174aae936b991"
+  },
+  "title": "Женьшень Улун Выдержанный",
+  "minDescription": "Китайский улун, покрытый женьшенем. Обладает густым сладким ароматом и выраженными нотами женьшеня во вкусе",
+  "teaType": "oolong",
+  "teaImage": "https://coffee-static.storage.yandexcloud.net/files/shares/data/product/1724311634.7967-oolong-dgenshen1-1024.png",
+  "description": "Женьшеневый улун — напиток из чайных листьев с измельченным корнем женьшеня, который имеет сладкий и яркий аромат. При производстве такого улуна чайные листья собирают, подвяливают и ферментируют. После этого их посыпают порошком из измельчённого корня женьшеня, перемешивают, скручивают и сушат.",
+  "price": 329,
+  "deliveryTime": 45,
+  "cart": false,
+  "unedited": true
+},
+{
+  "_id": {
+    "$oid": "66dc922ebb3174aae936b992"
+  },
+  "title": "Черная смородина",
+  "minDescription": "Черный цейлонский и индийский чай с листочками и ягодами черной смородины",
+  "teaType": "flavoredBlack",
+  "teaImage": "https://coffee-static.storage.yandexcloud.net/files/shares/data/product/1720157893.4008-black-aroma-black-currant1-1024.png",
+  "description": "Черный цейлонский и индийский чай с листочками и ягодами черной смородины. С добавлением натурального ароматизатора.",
+  "price": 359,
+  "deliveryTime": 36,
+  "cart": false,
+  "unedited": true
+},
+{
+  "_id": {
+    "$oid": "66dc922ebb3174aae936b993"
+  },
+  "title": "Эрл Грей",
+  "minDescription": "Купаж цейлонского и индийского чёрного чая с маслом бергамота",
+  "teaType": "flavoredBlack",
+  "teaImage": "https://coffee-static.storage.yandexcloud.net/files/shares/data/product/1724311499.3103-black-aroma-erl-grey1-1024.png",
+  "description": "В основе этого чая — цейлонский и индийский чёрный чай, которые ароматизировали с помощью натурального ароматизатора — масла бергамота.",
+  "price": 319,
+  "deliveryTime": 73,
+  "cart": false,
+  "unedited": true
+},
+{
+  "_id": {
+    "$oid": "66dc922ebb3174aae936b994"
+  },
+  "title": "Лесные Ягоды",
+  "minDescription": "Черный крупнолистовой чай с гибискусом, земляникой, клубникой, ежевикой, лепестками роз",
+  "teaType": "flavoredBlack",
+  "teaImage": "https://coffee-static.storage.yandexcloud.net/files/shares/data/product/1721994259.9692-black-aroma-ekaterina1-1024.png",
+  "description": "Черный крупнолистовой чай с гибискусом, земляникой, клубникой, ежевикой, лепестками роз, с натуральным ароматизатором ягод.",
+  "price": 389,
+  "deliveryTime": 43,
+  "cart": false,
+  "unedited": true
+},
+{
+  "_id": {
+    "$oid": "66dc922ebb3174aae936b995"
+  },
+  "title": "Вишнёвый",
+  "minDescription": "Индийский чёрный чай с кусочками вишни, корицей и вишнёвым листом",
+  "teaType": "flavoredBlack",
+  "teaImage": "https://coffee-static.storage.yandexcloud.net/files/shares/data/product/1722599527.335-black-aroma-wild-cherry1-1024.png",
+  "description": "В основе этого чая — индийский чёрный чай, в который добавили ягоды и кусочки ягод вишни, вишнёвый лист и корицу. Также в составе есть ароматизатор.",
+  "price": 449,
+  "deliveryTime": 23,
+  "cart": false,
+  "unedited": true
+},
+{
+  "_id": {
+    "$oid": "66dc922ebb3174aae936b996"
+  },
+  "title": "Липовый",
+  "minDescription": "Китайская сенча с лимонной травой, листьями липы, цедрой лимона, ромашкой и вербеной",
+  "teaType": "flavoredGreen",
+  "teaImage": "https://coffee-static.storage.yandexcloud.net/files/shares/data/product/1724313791.8898-green-aroma-japan-linden1-1024.png",
+  "description": "В составе этого чая китайская сенча, в которую добавили лимонную траву, листья липы, цедру лимона, ромашку и вербену.",
+  "price": 339,
+  "deliveryTime": 83,
+  "cart": false,
+  "unedited": true
+},
+{
+  "_id": {
+    "$oid": "66dc922ebb3174aae936b997"
+  },
+  "title": "Можжевельник",
+  "minDescription": "Китайская сенча с листьями земляники и чёрной смородины, бессмертником и ягодами можжевельника",
+  "teaType": "flavoredGreen",
+  "teaImage": "https://coffee-static.storage.yandexcloud.net/files/shares/data/product/1724347631.0823-green-aroma-mozhzhevelnik1-1024.png",
+  "description": "В основе этого чая — китайский зелёный чай сенча, в который добавили листья земляники и чёрной смородины, бессмертник и ягоды можжевельника.",
+  "price": 369,
+  "deliveryTime": 19,
+  "cart": false,
+  "unedited": true
+},
+{
+  "_id": {
+    "$oid": "66dc922ebb3174aae936b998"
+  },
+  "title": "Клубника со сливками (Зеленый)",
+  "minDescription": "Китайский зелёный чай сенча с кусочками клубники и хлопьями кокоса",
+  "teaType": "flavoredGreen",
+  "teaImage": "https://coffee-static.storage.yandexcloud.net/files/shares/data/product/1722599199.0223-green-aroma-strawberry-cream1-1024.png",
+  "description": "Китайский зеленый чай сенча с кусочками клубники и хлопьями кокоса, а также с добавлением натурального ароматизатора клубники и ванили.",
+  "price": 339,
+  "deliveryTime": 13,
+  "cart": false,
+  "unedited": true
+},
+{
+  "_id": {
+    "$oid": "66dc922ebb3174aae936b999"
+  },
+  "title": "Утренний аромат",
+  "minDescription": "Китайская зелёный чай с лепестками подсолнечника, цветками василька и розы",
+  "teaType": "flavoredGreen",
+  "teaImage": "https://coffee-static.storage.yandexcloud.net/files/shares/data/product/1723800026.9296-green-aroma-morgentay1-1024.png",
+  "description": "В основе этого чая — китайский зелёный чай, который смешали с лепестками подсолнечника, розы и василька, а также добавили натуральные масла.",
+  "price": 369,
+  "deliveryTime": 3,
+  "cart": false,
+  "unedited": true
+},
+{
+  "_id": {
+    "$oid": "66dc922ebb3174aae936b99a"
+  },
+  "title": "Мятный каркаде",
+  "minDescription": "Тизан с гибискусом, кусочками яблок, листьями мяты, мелиссы, черной смородины, семенами фенхеля, вереском",
+  "teaType": "tisane",
+  "teaImage": "https://coffee-static.storage.yandexcloud.net/files/shares/data/product/1724312924.2988-herbal-calming1-1024.png",
+  "description": "Тизаны — это напитки, приготовленные из трав, фруктов, коры, цветов или специй, но без добавления чайного листа. В составе этого тизана — гибискус, кусочки яблока, листочки мяты, мелиссы, чёрной смородины, семена фенхеля и вереск.",
+  "price": 329,
+  "deliveryTime": 26,
+  "cart": false,
+  "unedited": true
+},
+{
+  "_id": {
+    "$oid": "66dc922ebb3174aae936b99b"
+  },
+  "title": "Лимон с имбирем",
+  "minDescription": "Тизан с имбирём, лемонграссом, ромашкой, яблоком, чёрным перцем, розой, лимоном, корицей, мятой",
+  "teaType": "tisane",
+  "teaImage": "https://coffee-static.storage.yandexcloud.net/files/shares/data/product/1720158354.9813-herbal-lemon-ginger1-1024.png",
+  "description": "Тизан с имбирём, лемонграссом, ромашкой, яблоком, чёрным перцем, розой, лимоном, корицей, мятой.",
+  "price": 369,
+  "deliveryTime": 6,
+  "cart": false,
+  "unedited": true
+},
+{
+  "_id": {
+    "$oid": "66dc922ebb3174aae936b99c"
+  },
+  "title": "Гибискус с ягодами",
+  "minDescription": "Тизан с гибискусом, ягодами можжевельника, листьями и ягодами ежевики, плодами шиповника",
+  "teaType": "tisane",
+  "teaImage": "https://coffee-static.storage.yandexcloud.net/files/shares/data/product/1720158384.7267-herbal-tonic-1-1024.png",
+  "description": "Тизан с гибискусом, ягодами можжевельника, листьями и ягодами ежевики, плодами шиповника, кусочками и цедрой апельсина, семенами фенхеля и натуральным ароматизатором.",
+  "price": 369,
+  "deliveryTime": 7,
+  "cart": false,
+  "unedited": true
+},
+{
+  "_id": {
+    "$oid": "66dc922ebb3174aae936b99d"
+  },
+  "title": "Ройбуш с лемонграссом",
+  "minDescription": "Тизан с ройбушем, лемонграссом, гибискусом, шиповником, мятой, цедрой апельсина, лепестками василька и календулы",
+  "teaType": "tisane",
+  "teaImage": "https://coffee-static.storage.yandexcloud.net/files/shares/data/product/1722599249.9758-herbal-rooibos-lemongrass-1024.png",
+  "description": "Тизаны — это напитки, приготовленные из трав, фруктов, коры, цветов или специй, но без добавления чайного листа. В составе этого тизана — ройбуш, лемонграсс, гибискус, шиповник, мята, цедра апельсина, лепестки василька и календулы.",
+  "price": 479,
+  "deliveryTime": 18,
+  "cart": false,
+  "unedited": true
+},
+{
+  "_id": {
+    "$oid": "66dc922ebb3174aae936b99e"
+  },
+  "title": "Пуэр Юннань 3 года",
+  "minDescription": "Китайский шу пуэр трехлетней выдержки с пряным ароматом с древесными оттенками",
+  "teaType": "puer",
+  "teaImage": "https://coffee-static.storage.yandexcloud.net/files/shares/data/product/1718360533.6153-puer_unnan_b-1024.png",
+  "description": "Китайский шу пуэр трёхлетней выдержки, для производства которого использовали крупнолистовой юннаньский чай. Он обладает пряным ароматом с нотами орехов и древесными оттенками. Шу пуэр переводится как «готовый пуэр». При обработке листья подвергают ускоренной ферментации, которая имитирует старение чая в более короткие сроки. При долгом хранении вкус шу также меняется — у молодого чая он резкий и древесный, а со временем развивается, становится сложным и глубоким. В нём появляются ореховые, сливочные, камфорные ноты, ароматы корнеплодов, какао-бобов.",
+  "price": 299,
+  "deliveryTime": 24,
+  "cart": false,
+  "unedited": true
+}]

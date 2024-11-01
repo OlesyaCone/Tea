@@ -187,22 +187,3 @@ app.get("/info", async function (req, res) {
   let data = await Info.find();
   res.send(data);
 });
-
-
-let k = 0;
-
-let str = 'родина редкий род огород родео роды';
-
-let mas = str.split(' ');
-
-for (let i = 0; i < mas.length; i++) {
-
-  if (mas[i].length > 5 && mas[i].includes('род')) {
-
-    k++;
-
-  }
-
-}
-
-console.log(k);
